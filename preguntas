@@ -1,0 +1,18 @@
+¿Qué entiende como "commit"?
+
+R// O "revisión", es un cambio individual a un archivo (o conjunto de archivos).
+ Es como cuando guarda un archivo, excepto con Git, cada vez que lo guarda, 
+ crea un ID único (a.k.a. el "SHA" o "hash") que le permite mantener un
+  registro de los cambios realizados cuando y por quién.
+
+  ¿Qué entiende como "merge"?
+
+
+R//Hace los cambios de una rama (en el mismo repositorio o de una bifurcación), 
+y los aplica en otro. Esto a menudo sucede como una solicitud de extracción 
+(que se puede considerar como una solicitud de combinación) o mediante la línea de comandos.
+
+¿Cuál es la diferencia entre "Pull" y "Push"?
+Colaborar con otros implica gestionar estos repositorios 
+remotos, y mandar (push) y recibir (pull) datos de ellos cuando 
+necesites compartir cosas.
