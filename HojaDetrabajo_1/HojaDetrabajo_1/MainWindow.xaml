@@ -1,0 +1,21 @@
+﻿<Window x:Class="HojaDetrabajo_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HojaDetrabajo_1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="146,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" TextChanged="textBox_TextChanged"/>
+        <TextBox x:Name="txtdos" HorizontalAlignment="Left" Height="23" Margin="355,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" UndoLimit="59" TextChanged="textBox_Copy_TextChanged"/>
+        <Label x:Name="label" Content="Primer numero" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="38,70,0,0"/>
+        <Label x:Name="label_Copy" Content="Segundo numero" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="241,70,0,0"/>
+        <Label x:Name="label_Copy1" Content="Calculadora Crack" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="146,10,0,0" FontSize="22" FontFamily="Segoe UI Black"/>
+        <Button x:Name="multiplicacion" Content="potencia&#xD;&#xA;" HorizontalAlignment="Left" Margin="38,165,0,0" VerticalAlignment="Top" Width="101" Height="48" Click="multiplicacion_Click"/>
+        <Button x:Name="division" Content="descuento" HorizontalAlignment="Left" Margin="159,165,0,0" VerticalAlignment="Top" Width="90" Height="48" Click="division_Click"/>
+        <Button x:Name="suma" Content="promedio" HorizontalAlignment="Left" Margin="268,165,0,0" VerticalAlignment="Top" Width="95" Height="48" Click="suma_Click"/>
+        <Button x:Name="resta" Content="iva&#xD;&#xA;" HorizontalAlignment="Left" Margin="383,165,0,0" VerticalAlignment="Top" Width="99" Height="48" Click="resta_Click"/>
+
+    </Grid>
+</Window>

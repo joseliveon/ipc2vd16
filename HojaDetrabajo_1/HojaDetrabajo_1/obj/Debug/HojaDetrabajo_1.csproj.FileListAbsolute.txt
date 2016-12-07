@@ -1,0 +1,14 @@
+C:\Users\jose_\ipc2vd16\HojaDetrabajo_1\HojaDetrabajo_1\bin\Debug\HojaDetrabajo_1.exe.config
+C:\Users\jose_\ipc2vd16\HojaDetrabajo_1\HojaDetrabajo_1\obj\Debug\HojaDetrabajo_1.csprojResolveAssemblyReference.cache
+C:\Users\jose_\ipc2vd16\HojaDetrabajo_1\HojaDetrabajo_1\obj\Debug\MainWindow.g.cs
+C:\Users\jose_\ipc2vd16\HojaDetrabajo_1\HojaDetrabajo_1\obj\Debug\App.g.cs
+C:\Users\jose_\ipc2vd16\HojaDetrabajo_1\HojaDetrabajo_1\obj\Debug\HojaDetrabajo_1_MarkupCompile.cache
+C:\Users\jose_\ipc2vd16\HojaDetrabajo_1\HojaDetrabajo_1\obj\Debug\HojaDetrabajo_1_MarkupCompile.lref
+C:\Users\jose_\ipc2vd16\HojaDetrabajo_1\HojaDetrabajo_1\bin\Debug\HojaDetrabajo_1.exe
+C:\Users\jose_\ipc2vd16\HojaDetrabajo_1\HojaDetrabajo_1\bin\Debug\HojaDetrabajo_1.pdb
+C:\Users\jose_\ipc2vd16\HojaDetrabajo_1\HojaDetrabajo_1\obj\Debug\MainWindow.baml
+C:\Users\jose_\ipc2vd16\HojaDetrabajo_1\HojaDetrabajo_1\obj\Debug\HojaDetrabajo_1.g.resources
+C:\Users\jose_\ipc2vd16\HojaDetrabajo_1\HojaDetrabajo_1\obj\Debug\HojaDetrabajo_1.Properties.Resources.resources
+C:\Users\jose_\ipc2vd16\HojaDetrabajo_1\HojaDetrabajo_1\obj\Debug\HojaDetrabajo_1.csproj.GenerateResource.Cache
+C:\Users\jose_\ipc2vd16\HojaDetrabajo_1\HojaDetrabajo_1\obj\Debug\HojaDetrabajo_1.exe
+C:\Users\jose_\ipc2vd16\HojaDetrabajo_1\HojaDetrabajo_1\obj\Debug\HojaDetrabajo_1.pdb
