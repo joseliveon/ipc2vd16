@@ -46,7 +46,10 @@ namespace HojaDetrabajo_1
 
         private void division_Click(object sender, RoutedEventArgs e)
         {
-          
+            int valor1 = int.Parse(textBox.Text.ToString());
+            int valor2 = int.Parse(txtdos.Text.ToString());
+            double r = descuento(valor1, valor2);
+            MessageBox.Show("El resultado del descuento es : " + r);
         }
 
         private void suma_Click(object sender, RoutedEventArgs e)
