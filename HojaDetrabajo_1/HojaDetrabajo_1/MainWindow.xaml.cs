@@ -65,7 +65,7 @@ namespace HojaDetrabajo_1
             int valor1 = int.Parse(textBox.Text.ToString());
             int valor2 = int.Parse(txtdos.Text.ToString());
             double r = iva(valor1, valor2);
-            MessageBox.Show("El resultado del iva es : " + r);
+            MessageBox.Show("El resultado del iva es : " + r + " 201504231");
         }
 
         public int potencia(int x, int y) {
