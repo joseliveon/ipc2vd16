@@ -54,7 +54,10 @@ namespace HojaDetrabajo_1
 
         private void suma_Click(object sender, RoutedEventArgs e)
         {
-
+            int valor1 = int.Parse(textBox.Text.ToString());
+            int valor2 = int.Parse(txtdos.Text.ToString());
+            int r = promedio(valor1, valor2);
+            MessageBox.Show("El resultado del promedio es : " + r);
         }
 
         private void resta_Click(object sender, RoutedEventArgs e)
@@ -69,6 +72,14 @@ namespace HojaDetrabajo_1
             }
             
             return x;
+
+        }
+        public int promedio(int x, int y)
+        {
+            int r;
+            r = (x + y) / 2;
+
+            return r;
 
         }
         public double descuento(int x, int y)
