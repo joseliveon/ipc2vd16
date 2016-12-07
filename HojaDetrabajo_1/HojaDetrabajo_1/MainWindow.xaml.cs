@@ -62,7 +62,10 @@ namespace HojaDetrabajo_1
 
         private void resta_Click(object sender, RoutedEventArgs e)
         {
-
+            int valor1 = int.Parse(textBox.Text.ToString());
+            int valor2 = int.Parse(txtdos.Text.ToString());
+            double r = iva(valor1, valor2);
+            MessageBox.Show("El resultado del iva es : " + r);
         }
 
         public int potencia(int x, int y) {
@@ -86,7 +89,16 @@ namespace HojaDetrabajo_1
         {
             int r = 0;
             int descuento = x * (y/100);
+            r = x - descuento;
            
+
+            return descuento;
+        }
+        public double iva(int x, int y)
+        {
+            int r = 0;
+            int iva = x * (y / 100);
+            r = x + iva;
 
             return r;
         }
